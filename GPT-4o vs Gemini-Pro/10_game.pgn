@@ -1,0 +1,9 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "GPT-4o"]
+[Black "Gemini-Pro"]
+[Result "1-0"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bg5 Be7 6. Nf5 O-O 7. Nxe7+ Qxe7 8. Nd5 Nxd5 9. Bxe7 Ndxe7 10. Qd2 d5 11. O-O-O Re8 12. e3 Bf5 13. Bd3 Bxd3 14. Qxd3 Kh8 15. Qb5 Rab8 16. Rhe1 a6 17. Qc5 Rec8 18. e4 dxe4 19. Rxe4 Rd8 20. Rxd8+ Rxd8 21. Rxe7 Rd1+ 22. Kxd1 Kg8 23. Re8# 1-0
