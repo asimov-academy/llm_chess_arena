@@ -4,6 +4,7 @@
 
 Este é o código fonte do projeto apresentado neste vídeo:
 <br>
+https://www.instagram.com/reel/C8Ndmh2OAze/
 
 Este é um script que permite duas LLMs joguem Xadrez, nos permitindo (de maneira simplificada) comparar dois modelos de linguagem.
 Adicionei um histórico de 20 partidas jogadas o ChatGPT-4o e Gemini-1.5 Pro.
