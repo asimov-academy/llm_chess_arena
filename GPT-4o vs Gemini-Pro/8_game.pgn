@@ -1,9 +1,0 @@
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "GPT-4o"]
-[Black "Gemini-Pro"]
-[Result "1-0"]
-
-1. d3 c5 2. e4 Nf6 3. f4 d5 4. e5 d4 5. exf6 exf6 6. Qe2+ Be7 7. Nf3 O-O 8. g3 Nc6 9. Bg2 Re8 10. O-O Bd7 11. Nbd2 Qb6 12. Nc4 Qb4 13. Bd2 Qb5 14. a4 Qb6 15. a5 Qc7 16. Qf2 Bf8 17. f5 Ne5 18. Nfxe5 fxe5 19. f6 gxf6 20. Qxf6 Re7 21. Bf4 Re6 22. Bxe5 Rxf6 23. Bxf6 Be6 24. Be4 Re8 25. Rf4 Re7 26. Rh4 Qxa5 27. Rxa5 Re8 28. Rxa7 Re7 29. Rxb7 Rxb7 30. Bxb7 Bg7 31. Bxg7 Kxg7 32. Be4 Kf8 33. Rxh7 Kg8 34. Ne5 f5 35. Re7 Kf8 36. Ng6+ Kg8 37. Rxe6 Kf7 38. Kg2 Kg7 39. Bxf5 Kf7 40. Kh3 Kg7 41. Kg4 Kf7 42. Kg5 Kg7 43. Re7+ Kg8 44. Be6# 1-0
